@@ -1,0 +1,112 @@
+{
+  "alesp-constituicao-0-1989": {
+    "arquivo": "constituicao-sp-1989.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 43756,
+    "removidos": 85808,
+    "sha256": "50875f513e7d3ba9e7d46dcbb8f4c327c37aead51c39ba31b140ec5423f2afa5",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/constituicao/1989/compilacao-constituicao-0-05.10.1989.html"
+  },
+  "alesp-lei-10177-1998": {
+    "arquivo": "sp-lei-10177-1998.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 6176,
+    "removidos": 66,
+    "sha256": "6be809872b32311afc4b8d3185b92462937e85ea4788513d52fa1e6cf6bf822d",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/1998/compilacao-lei-10177-30.12.1998.html"
+  },
+  "alesp-lei-10261-1968": {
+    "arquivo": "sp-lei-10261-1968.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 27049,
+    "removidos": 53281,
+    "sha256": "d260ebd7723e75a4460965b1ee2484ff5a96fb449a325962ebad06b15b972887",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/1968/compilacao-lei-10261-28.10.1968.html"
+  },
+  "alesp-lei-10705-2000": {
+    "arquivo": "sp-lei-10705-2000.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 4468,
+    "removidos": 3555,
+    "sha256": "271ac0512088abec090877254e2f579affd8ee95405dea1dd48e9df040062a80",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2000/compilacao-lei-10705-28.12.2000.html"
+  },
+  "alesp-lei-10948-2001": {
+    "arquivo": "sp-lei-10948-2001.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 838,
+    "removidos": 0,
+    "sha256": "e9901cc076e1e0a7e1a4bcde4dff33d6028f4f1e89826420d5f5c468e7658c9a",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2001/compilacao-lei-10948-05.11.2001.html"
+  },
+  "alesp-lei-11199-2002": {
+    "arquivo": "sp-lei-11199-2002.md",
+    "capturado_em": "2026-11-11",
+    "compilado": false,
+    "palavras": 710,
+    "removidos": 0,
+    "sha256": "271d576bad2fe501c88dd2832c772edd951c26385bccb76b8778b0b0ceab45cb",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2002/lei-11199-12.07.2002.html"
+  },
+  "alesp-lei-14187-2010": {
+    "arquivo": "sp-lei-14187-2010.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 1124,
+    "removidos": 0,
+    "sha256": "736772a2a3d1e94e31e85a59c38b5b0aa6e46c069d46115c3db5013cb271db78",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/2010/compilacao-lei-14187-19.07.2010.html"
+  },
+  "alesp-lei-6536-1989": {
+    "arquivo": "sp-lei-6536-1989.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 1167,
+    "removidos": 4790,
+    "sha256": "20957cd800c2e5b58dbc967e455e4704f7bf46ef9cdf05c7288629b1b5645419",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei/1989/compilacao-lei-6536-13.11.1989.html"
+  },
+  "alesp-lei-complementar-207-1979": {
+    "arquivo": "sp-lc-207-1979.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 14597,
+    "removidos": 35271,
+    "sha256": "0c816f9abd1ba2ed4c5d2fc9d34ae063cb750f1cc5b9a99301cce8b0481b0636",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/1979/compilacao-lei.complementar-207-05.01.1979.html"
+  },
+  "alesp-lei-complementar-893-2001": {
+    "arquivo": "sp-lc-893-2001.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 11080,
+    "removidos": 319,
+    "sha256": "a090b85e2086e20ba180bb98fa8ce77329de999a3eaf057b8bc1bcd7cdf2967a",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2001/compilacao-lei.complementar-893-09.03.2001.html"
+  },
+  "alesp-lei-complementar-988-2006": {
+    "arquivo": "sp-lc-988-2006.md",
+    "capturado_em": "2026-11-11",
+    "compilado": true,
+    "palavras": 25656,
+    "removidos": 23239,
+    "sha256": "086e93f74b1445a67af130a57669ae646fc24b6cae391cfb524f065835d9d47f",
+    "tachado_aberto": false,
+    "url": "https://www.al.sp.gov.br/repositorio/legislacao/lei.complementar/2006/compilacao-lei.complementar-988-09.01.2006.html"
+  }
+}
